@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-QuickDrawCard-0.1";
 const contentToCache = [
-    "Build/QuickDrawGame.loader.js",
-    "Build/QuickDrawGame.framework.js",
-    "Build/QuickDrawGame.data",
-    "Build/QuickDrawGame.wasm",
+    "Build/QuickDrawGames.loader.js",
+    "Build/QuickDrawGames.framework.js",
+    "Build/QuickDrawGames.data",
+    "Build/QuickDrawGames.wasm",
     "TemplateData/style.css"
 
 ];
