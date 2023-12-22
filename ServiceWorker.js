@@ -1,4 +1,4 @@
-const cacheName = "QuickDraw-OUTLAW CASINO BLACKJACK-0.1";
+const cacheName = "QuickDraw-OUTLAW CASINO BLACKJACK-0.9.2";
 const contentToCache = [
     "Build/QuickDrawGame.loader.js",
     "Build/QuickDrawGame.framework.js",
